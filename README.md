@@ -5,12 +5,14 @@ A comprehensive, hands-on repository demonstrating **how to build, orchestrate, 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jyotidabass/AI-Agent-Session)
+[![Medium Blog](https://img.shields.io/badge/Medium-Read%20the%20Blog-black?logo=medium)](https://medium.com/tech-ai-made-easy/build-your-own-ai-web-agent-in-python-a-step-by-step-guide-74be67c5b45f?sk=128722450176e5215182614db7baa0e4)
 
 ---
 
 ## 📖 Table of Contents
 
 - [Project Overview](#-project-overview)
+- [Medium Blog](#-medium-blog)
 - [Project Structure](#-project-structure)
 - [What You Will Learn](#-what-you-will-learn)
 - [Prerequisites & Installation](#-prerequisites--installation)
@@ -48,6 +50,25 @@ This repository is built for developers, researchers, and AI enthusiasts who wan
 - **News agents** — real-time article fetching and AI summarization
 
 The goal is to help developers **understand, build, and experiment with different AI agent architectures step-by-step**, progressing from simple single agents to production-grade multi-agent systems.
+
+---
+
+## 📝 Medium Blog
+
+A detailed, beginner-friendly walkthrough of this entire repository — every script, every workflow pattern, and all five Jupyter notebooks — is published on Medium:
+
+### 👉 [Build Your Own AI Web Agent in Python: A Step-by-Step Guide](https://medium.com/tech-ai-made-easy/build-your-own-ai-web-agent-in-python-a-step-by-step-guide-74be67c5b45f?sk=128722450176e5215182614db7baa0e4)
+
+**Published in:** [Tech & AI Made Easy](https://medium.com/tech-ai-made-easy)
+
+The blog covers:
+- Every script in `1-Introduction_Agents/` and `2-workflows/` explained line by line
+- All four AI workflow patterns with visual flow diagrams
+- The CrewAI Finance App and SmolaAgent News Analyst
+- All 5 Jupyter notebooks — CrewAI on Colab, Streamlit on Colab, Gemini + CrewAI News Writer, Gemini Vision → HTML Code, and the SQL Agent
+- A complete quick-start guide to run everything locally or on Google Colab
+
+> 💡 **New to AI agents?** Start with the blog post for plain-English explanations, then come back here to run the code.
 
 ---
 
